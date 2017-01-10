@@ -1,0 +1,124 @@
+body{
+	background-color: #B26430;
+	color:#ffffff ;
+	font: monospace;
+	font-family: 'Waiting for the Sunrise', cursive;
+	text-decoration: none;
+}
+#roll{
+	text-decoration: none;
+	color: #ffffff
+}
+#ja{
+	text-decoration: none;
+	color: #ffffff
+}
+#link{
+	text-decoration: none;
+}
+#man{
+	width: 500px;
+}
+#man{
+	height: auto;
+}
+#but{
+color: #FFF;
+    background: #EF672F;
+    padding: 15px 20px;
+    margin: 25px;
+    font-family: 'OpenSansBold', sans-serif;
+    font-size: 14px;
+    font-weight: bold;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    border-radius: 20px;
+    display: inline-block;
+    text-align: center;
+    cursor: pointer;
+    box-shadow: inset 0 0 0 0 #C14800;
+	-webkit-transition: all ease 0.8s;
+	-moz-transition: all ease 0.8s;
+	transition: all ease 0.8s;
+}
+#but:hover {
+    box-shadow: inset 0 100px 0 0 #C14800;
+}
+
+#wazzup{
+	color: #f4d142
+}
+#wazzup{
+	font-size: 100px
+}
+#wazzup{
+	border-color: #000AFF;
+    text-align: center !important;
+}
+#wazzup{
+	border: groove;
+	border-width: 50px 
+}
+h1{
+	color: #424bf4;
+}
+
+#dab{
+	color: #49FF39
+}
+#deez_nutz{
+	color: #000000;
+	font-family: 'Tillana'
+}
+#dud{
+	color: #ffffff
+}
+#dud{
+	font-family: 'Shadows Into Light'
+}
+head{
+	text-decoration: none;
+}
+/* copied from internet */
+.dropbtn {
+    background-color: #4CAF50;
+    color: white;
+    padding: 16px;
+    font-size: 16px;
+    border: none;
+    cursor: pointer;
+}
+
+/* Dropdown button on hover & focus */
+.dropbtn:hover, .dropbtn:focus {
+    background-color: #3e8e41;
+}
+
+/* The container <div> - needed to position the dropdown content */
+.dropdown {
+    position: relative;
+    display: inline-block;
+}
+
+/* Dropdown Content (Hidden by Default) */
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+}
+
+/* Links inside the dropdown */
+.dropdown-content a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+}
+
+/* Change color of dropdown links on hover */
+.dropdown-content a:hover {background-color: #f1f1f1}
+
+/* Show the dropdown menu (use JS to add this class to the .dropdown-content container when the user clicks on the dropdown button) */
+.show {display:block;}
